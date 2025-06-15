@@ -185,6 +185,7 @@ h2 {
 }
 
 model-viewer {
-  height: 50vh;
-  width: 50vw;
+  display: block;
+  height: 80vh;
+  width: 100vw;
 }
