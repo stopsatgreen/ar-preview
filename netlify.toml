@@ -1,0 +1,3 @@
+[build]
+  # This tells Netlify to publish the root directory.
+  publish = "."
